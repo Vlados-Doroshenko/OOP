@@ -1,0 +1,13 @@
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 1\TTriangle\bin\Debug\netcoreapp3.1\TTriangle.exe
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 1\TTriangle\bin\Debug\netcoreapp3.1\TTriangle.deps.json
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 1\TTriangle\bin\Debug\netcoreapp3.1\TTriangle.runtimeconfig.json
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 1\TTriangle\bin\Debug\netcoreapp3.1\TTriangle.runtimeconfig.dev.json
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 1\TTriangle\bin\Debug\netcoreapp3.1\TTriangle.dll
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 1\TTriangle\bin\Debug\netcoreapp3.1\TTriangle.pdb
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 1\TTriangle\obj\Debug\netcoreapp3.1\TTriangle.csprojAssemblyReference.cache
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 1\TTriangle\obj\Debug\netcoreapp3.1\TTriangle.AssemblyInfoInputs.cache
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 1\TTriangle\obj\Debug\netcoreapp3.1\TTriangle.AssemblyInfo.cs
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 1\TTriangle\obj\Debug\netcoreapp3.1\TTriangle.csproj.CoreCompileInputs.cache
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 1\TTriangle\obj\Debug\netcoreapp3.1\TTriangle.dll
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 1\TTriangle\obj\Debug\netcoreapp3.1\TTriangle.pdb
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 1\TTriangle\obj\Debug\netcoreapp3.1\TTriangle.genruntimeconfig.cache
