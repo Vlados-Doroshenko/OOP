@@ -66,7 +66,7 @@ namespace TTriangle
         }
         public double Geron()
         {
-            double p = (a + b + c) / 2;
+            double p = (perimeter()) / 2;
             return Math.Sqrt(p * (p - a) * (p - b) * (p - c));
         }
 
@@ -77,9 +77,21 @@ namespace TTriangle
 
         public static void Main(string[] args)
         {
-            TTriangle tr = new TTriangle(15, 18, 20);
-            Console.WriteLine("Периметр = " + tr.perimeter());
-            Console.WriteLine("Площа (Формула Герона) = " + tr.Geron());
+            TTriangle tr1 = new TTriangle();
+            Console.WriteLine("Периметр = " + tr1.perimeter());
+            Console.WriteLine("Площа (Формула Герона) = " + tr1.Geron());
+
+            TTriangle tr2 = new TTriangle(0, 14, 0);
+            Console.WriteLine("Периметр = " + tr2.perimeter());
+            Console.WriteLine("Площа (Формула Герона) = " + tr2.Geron());
+
+            TTriangle tr3 = new TTriangle(0, 0, 8);
+            Console.WriteLine("Периметр = " + tr3.perimeter());
+            Console.WriteLine("Площа (Формула Герона) = " + tr2.Geron());
+
+            TTriangle tr4 = new TTriangle(5, 8, 8);
+            Console.WriteLine("Периметр = " + tr4.perimeter());
+            Console.WriteLine("Площа (Формула Герона) = " + tr4.Geron());
         }
     }
 }
