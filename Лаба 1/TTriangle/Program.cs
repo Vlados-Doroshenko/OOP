@@ -39,6 +39,8 @@ namespace TTriangle
             {
                 if (value > 0) a = value;
                 else a = 0;
+                if (a + b > c && a + c > b && b + c > a) Console.WriteLine("Tрикутник iснує");
+                else Console.WriteLine("Трикутник не iснує");
             }
         }
         public double B
@@ -48,6 +50,8 @@ namespace TTriangle
             {
                 if (value > 0) b = value;
                 else b = 0;
+                if (a + b > c && a + c > b && b + c > a) Console.WriteLine("Tрикутник iснує");
+                else Console.WriteLine("Трикутник не iснує");
             }
         }
         public double C
@@ -57,6 +61,8 @@ namespace TTriangle
             {
                 if (value > 0) c = value;
                 else c = 0;
+                if (a + b > c && a + c > b && b + c > a) Console.WriteLine("Tрикутник iснує");
+                else Console.WriteLine("Трикутник не iснує");
             }
         }
 
