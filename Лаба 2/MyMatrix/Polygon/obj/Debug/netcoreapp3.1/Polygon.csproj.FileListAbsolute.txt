@@ -1,0 +1,13 @@
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 2\Polygon\bin\Debug\netcoreapp3.1\Polygon.exe
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 2\Polygon\bin\Debug\netcoreapp3.1\Polygon.deps.json
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 2\Polygon\bin\Debug\netcoreapp3.1\Polygon.runtimeconfig.json
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 2\Polygon\bin\Debug\netcoreapp3.1\Polygon.runtimeconfig.dev.json
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 2\Polygon\bin\Debug\netcoreapp3.1\Polygon.dll
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 2\Polygon\bin\Debug\netcoreapp3.1\Polygon.pdb
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 2\Polygon\obj\Debug\netcoreapp3.1\Polygon.csprojAssemblyReference.cache
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 2\Polygon\obj\Debug\netcoreapp3.1\Polygon.AssemblyInfoInputs.cache
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 2\Polygon\obj\Debug\netcoreapp3.1\Polygon.AssemblyInfo.cs
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 2\Polygon\obj\Debug\netcoreapp3.1\Polygon.csproj.CoreCompileInputs.cache
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 2\Polygon\obj\Debug\netcoreapp3.1\Polygon.dll
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 2\Polygon\obj\Debug\netcoreapp3.1\Polygon.pdb
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 2\Polygon\obj\Debug\netcoreapp3.1\Polygon.genruntimeconfig.cache

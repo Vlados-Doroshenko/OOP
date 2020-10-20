@@ -1,0 +1,13 @@
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 2\TCircle\bin\Debug\netcoreapp3.1\TCircle.exe
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 2\TCircle\bin\Debug\netcoreapp3.1\TCircle.deps.json
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 2\TCircle\bin\Debug\netcoreapp3.1\TCircle.runtimeconfig.json
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 2\TCircle\bin\Debug\netcoreapp3.1\TCircle.runtimeconfig.dev.json
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 2\TCircle\bin\Debug\netcoreapp3.1\TCircle.dll
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 2\TCircle\bin\Debug\netcoreapp3.1\TCircle.pdb
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 2\TCircle\obj\Debug\netcoreapp3.1\TCircle.csprojAssemblyReference.cache
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 2\TCircle\obj\Debug\netcoreapp3.1\TCircle.AssemblyInfoInputs.cache
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 2\TCircle\obj\Debug\netcoreapp3.1\TCircle.AssemblyInfo.cs
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 2\TCircle\obj\Debug\netcoreapp3.1\TCircle.csproj.CoreCompileInputs.cache
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 2\TCircle\obj\Debug\netcoreapp3.1\TCircle.dll
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 2\TCircle\obj\Debug\netcoreapp3.1\TCircle.pdb
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 2\TCircle\obj\Debug\netcoreapp3.1\TCircle.genruntimeconfig.cache
