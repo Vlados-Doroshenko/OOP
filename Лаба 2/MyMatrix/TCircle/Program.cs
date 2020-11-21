@@ -30,10 +30,7 @@ namespace TCircle
             
             Console.WriteLine();
             
-            Console.WriteLine("Дiаметр кола = " + circle.Diametr());
-            Console.WriteLine("Площа кола = " + circle.Square());
-            Console.WriteLine("Площа селектора кола = " + circle.Square_Select());
-            Console.WriteLine("Довжина кола = " + circle.Length());
+            Console.WriteLine(circle.ToString());
             
             Console.WriteLine();
             
@@ -44,7 +41,7 @@ namespace TCircle
             cone.h = h;
             cone.r = circle.r;
             
-            Console.WriteLine("Об'єм конуса = " + cone.Vol());
+            Console.WriteLine(cone.ToString());
 
             Console.ReadKey();
         }

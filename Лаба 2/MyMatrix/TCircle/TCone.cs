@@ -33,5 +33,10 @@ namespace TCircle
         {
             return 0.33 * Math.PI * Math.Pow(r, 2) * h;
         }
+
+        public override string ToString()
+        {
+            return "Об'єм конуса = " + Vol();
+        }
     }
 }

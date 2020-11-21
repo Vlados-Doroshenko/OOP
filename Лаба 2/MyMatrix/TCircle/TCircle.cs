@@ -38,7 +38,7 @@ namespace TCircle
             R = obj.R;
             D = obj.D;
             L = obj.L;
-        }
+        }        
 
         public double r
         {
@@ -67,6 +67,11 @@ namespace TCircle
             }
         }
 
+        public static TCircle operator *(TCircle c1, TCircle c2)
+        {
+            return new TCircle { D = c1.D * c2.D };
+        }
+
         public double Diametr()
         {
             return 2*r;
@@ -85,6 +90,11 @@ namespace TCircle
         public double Length()
         {
             return Math.PI * D;
+        }
+
+        public override string ToString()
+        {
+            return "Дiаметр кола = " + Diametr() + "\r\nПлоща кола = " + Square() + "\r\nПлоща селектора кола = " + Square_Select() + "\r\nДовжина кола = " + Length();
         }
     }
 }
