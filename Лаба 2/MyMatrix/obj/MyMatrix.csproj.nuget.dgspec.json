@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\[ЧНУ]\\ООП (Юлія Євгенівна Гребенович)\\Лаба 2\\MyMatrix\\MyMatrix.csproj": {}
+    "D:\\[ЧНУ]\\ООП (Юлія Євгенівна Гребенович)\\Лаба 3\\MyMatrix\\MyMatrix.csproj": {}
   },
   "projects": {
-    "D:\\[ЧНУ]\\ООП (Юлія Євгенівна Гребенович)\\Лаба 2\\MyMatrix\\MyMatrix.csproj": {
+    "D:\\[ЧНУ]\\ООП (Юлія Євгенівна Гребенович)\\Лаба 3\\MyMatrix\\MyMatrix.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\[ЧНУ]\\ООП (Юлія Євгенівна Гребенович)\\Лаба 2\\MyMatrix\\MyMatrix.csproj",
+        "projectUniqueName": "D:\\[ЧНУ]\\ООП (Юлія Євгенівна Гребенович)\\Лаба 3\\MyMatrix\\MyMatrix.csproj",
         "projectName": "MyMatrix",
-        "projectPath": "D:\\[ЧНУ]\\ООП (Юлія Євгенівна Гребенович)\\Лаба 2\\MyMatrix\\MyMatrix.csproj",
+        "projectPath": "D:\\[ЧНУ]\\ООП (Юлія Євгенівна Гребенович)\\Лаба 3\\MyMatrix\\MyMatrix.csproj",
         "packagesPath": "C:\\Users\\azbek\\.nuget\\packages\\",
-        "outputPath": "D:\\[ЧНУ]\\ООП (Юлія Євгенівна Гребенович)\\Лаба 2\\MyMatrix\\obj\\",
+        "outputPath": "D:\\[ЧНУ]\\ООП (Юлія Євгенівна Гребенович)\\Лаба 3\\MyMatrix\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\azbek\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -52,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
