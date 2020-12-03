@@ -160,13 +160,13 @@ namespace MyMatrix
         }
         public MyMatrix(String[] text)
         {
-            int size = text[0].Split(' ').Length;
+            int size = text[0].Split('/ ').Length;
             try
             {
                 for (int i = 0; i < text.Length; i++)
                 {
-                    if (size != text[i].Split(' ').Length)
-                        throw new Exception("Matrix has a different number of elements");
+                    if (size != text[i].Split('/ ').Length)
+                        throw new Exception("Матриця має рiзну кiлькiсть елементiв");
                 }
                 array = new double[text.Length, size];
                 for (int i = 0; i < Height; i++)
@@ -178,7 +178,7 @@ namespace MyMatrix
             }
             catch
             {
-                Console.WriteLine("Matrix has a different number of elements");
+                Console.WriteLine("Матриця має рiзну кiлькiсть елементiв");
             }
         }
 
