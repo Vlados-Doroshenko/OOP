@@ -1,0 +1,13 @@
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 5\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 5\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 5\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 5\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 5\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 5\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 5\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 5\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 5\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 5\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 5\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 5\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 5\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
