@@ -1,0 +1,9 @@
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 4\lab4_2\obj\Debug\lab4_2.csprojAssemblyReference.cache
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 4\lab4_2\obj\Debug\lab4_2.Properties.Resources.resources
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 4\lab4_2\obj\Debug\lab4_2.csproj.GenerateResource.cache
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 4\lab4_2\obj\Debug\lab4_2.csproj.CoreCompileInputs.cache
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 4\lab4_2\bin\Debug\lab4_2.exe.config
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 4\lab4_2\bin\Debug\lab4_2.exe
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 4\lab4_2\bin\Debug\lab4_2.pdb
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 4\lab4_2\obj\Debug\lab4_2.exe
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 4\lab4_2\obj\Debug\lab4_2.pdb

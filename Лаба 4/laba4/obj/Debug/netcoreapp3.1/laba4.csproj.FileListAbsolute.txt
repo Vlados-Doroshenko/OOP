@@ -1,0 +1,13 @@
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 4\laba4\bin\Debug\netcoreapp3.1\laba4.exe
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 4\laba4\bin\Debug\netcoreapp3.1\laba4.deps.json
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 4\laba4\bin\Debug\netcoreapp3.1\laba4.runtimeconfig.json
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 4\laba4\bin\Debug\netcoreapp3.1\laba4.runtimeconfig.dev.json
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 4\laba4\bin\Debug\netcoreapp3.1\laba4.dll
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 4\laba4\bin\Debug\netcoreapp3.1\laba4.pdb
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 4\laba4\obj\Debug\netcoreapp3.1\laba4.csprojAssemblyReference.cache
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 4\laba4\obj\Debug\netcoreapp3.1\laba4.AssemblyInfoInputs.cache
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 4\laba4\obj\Debug\netcoreapp3.1\laba4.AssemblyInfo.cs
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 4\laba4\obj\Debug\netcoreapp3.1\laba4.csproj.CoreCompileInputs.cache
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 4\laba4\obj\Debug\netcoreapp3.1\laba4.dll
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 4\laba4\obj\Debug\netcoreapp3.1\laba4.pdb
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\Лаба 4\laba4\obj\Debug\netcoreapp3.1\laba4.genruntimeconfig.cache
