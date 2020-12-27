@@ -82,7 +82,7 @@ namespace WindowsFormsApp1
         public void CircleDraw()
         {
 
-            circle = new Circle(70, 80, 117.3);
+            circle = new Circle(70, 80, 56);
             circle.DrawBlack();
         }
         public void SquareDraw()

@@ -14,6 +14,8 @@ namespace WindowsFormsApp1
         public abstract void DrawBlack();
         public abstract void HideDrawingBackGround();
 
+        public Color Color { get; set; }
+
         public double X
         {
             get {
@@ -39,13 +41,13 @@ namespace WindowsFormsApp1
 
         public void MoveRight()
         {
-            if (x == 550) { x = 0; }
-
-            x += 10;
-            System.Threading.Thread.Sleep(100);
+            HideDrawingBackGround();
+            DrawBlack();
+            System.Threading.Thread.Sleep(100);                 
+            x++;
         }
 
-        public Color Color { get; set; }
-       
+
+
     }
 }
