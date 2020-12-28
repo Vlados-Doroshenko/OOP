@@ -16,6 +16,7 @@ public class Form1 : System.Windows.Forms.Form
     private System.Windows.Forms.Label label1;
     private System.Windows.Forms.RadioButton radioButton2;
     private System.Windows.Forms.RadioButton radioButton3;
+    private readonly string path = $@"D:/C";
 
     public Form1()
     {
@@ -96,6 +97,7 @@ public class Form1 : System.Windows.Forms.Form
             {
                 im2.RotateFlip(RotateFlipType.Rotate180FlipY);
                 g.DrawImage(im2, w2, 0, w2, h2);
+                im2.Save(path + "-Rotate180FlipY.jpg");
             }
             else
                 g.FillRectangle(b, w2, 0, w2, h2);
@@ -104,6 +106,7 @@ public class Form1 : System.Windows.Forms.Form
             {
                 im2.RotateFlip(RotateFlipType.Rotate180FlipX);
                 g.DrawImage(im2, 0, h2, w2, h2);
+                im2.Save(path + "-Rotate180FlipX.jpg");
             }
             else
                 g.FillRectangle(b, 0, h2, w2, h2);
@@ -112,6 +115,7 @@ public class Form1 : System.Windows.Forms.Form
             {
                 im2.RotateFlip(RotateFlipType.Rotate180FlipNone);
                 g.DrawImage(im2, w2, h2, w2, h2);
+                im2.Save(path + "-Rotate180FlipNone.jpg");
             }
             else
                 g.FillRectangle(b, w2, h2, w2, h2);
@@ -123,7 +127,7 @@ public class Form1 : System.Windows.Forms.Form
     }
     protected void ReadImage()
     {
-        string path = "D:/C.jpg";
+        string path = $@"D:/C.jpg";
         im = Image.FromFile(path);
         this.radioButton1.Enabled = true;
         this.radioButton2.Enabled = true;
