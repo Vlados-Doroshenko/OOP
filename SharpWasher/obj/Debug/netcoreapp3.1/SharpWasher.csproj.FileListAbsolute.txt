@@ -1,0 +1,13 @@
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 2\SharpWasher\bin\Debug\netcoreapp3.1\SharpWasher.exe
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 2\SharpWasher\bin\Debug\netcoreapp3.1\SharpWasher.deps.json
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 2\SharpWasher\bin\Debug\netcoreapp3.1\SharpWasher.runtimeconfig.json
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 2\SharpWasher\bin\Debug\netcoreapp3.1\SharpWasher.runtimeconfig.dev.json
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 2\SharpWasher\bin\Debug\netcoreapp3.1\SharpWasher.dll
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 2\SharpWasher\bin\Debug\netcoreapp3.1\SharpWasher.pdb
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 2\SharpWasher\obj\Debug\netcoreapp3.1\SharpWasher.csprojAssemblyReference.cache
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 2\SharpWasher\obj\Debug\netcoreapp3.1\SharpWasher.AssemblyInfoInputs.cache
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 2\SharpWasher\obj\Debug\netcoreapp3.1\SharpWasher.AssemblyInfo.cs
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 2\SharpWasher\obj\Debug\netcoreapp3.1\SharpWasher.csproj.CoreCompileInputs.cache
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 2\SharpWasher\obj\Debug\netcoreapp3.1\SharpWasher.dll
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 2\SharpWasher\obj\Debug\netcoreapp3.1\SharpWasher.pdb
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 2\SharpWasher\obj\Debug\netcoreapp3.1\SharpWasher.genruntimeconfig.cache

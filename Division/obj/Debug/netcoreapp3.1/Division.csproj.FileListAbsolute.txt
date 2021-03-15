@@ -1,0 +1,13 @@
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 2\Division\bin\Debug\netcoreapp3.1\Division.exe
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 2\Division\bin\Debug\netcoreapp3.1\Division.deps.json
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 2\Division\bin\Debug\netcoreapp3.1\Division.runtimeconfig.json
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 2\Division\bin\Debug\netcoreapp3.1\Division.runtimeconfig.dev.json
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 2\Division\bin\Debug\netcoreapp3.1\Division.dll
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 2\Division\bin\Debug\netcoreapp3.1\Division.pdb
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 2\Division\obj\Debug\netcoreapp3.1\Division.csprojAssemblyReference.cache
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 2\Division\obj\Debug\netcoreapp3.1\Division.AssemblyInfoInputs.cache
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 2\Division\obj\Debug\netcoreapp3.1\Division.AssemblyInfo.cs
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 2\Division\obj\Debug\netcoreapp3.1\Division.csproj.CoreCompileInputs.cache
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 2\Division\obj\Debug\netcoreapp3.1\Division.dll
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 2\Division\obj\Debug\netcoreapp3.1\Division.pdb
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 2\Division\obj\Debug\netcoreapp3.1\Division.genruntimeconfig.cache
