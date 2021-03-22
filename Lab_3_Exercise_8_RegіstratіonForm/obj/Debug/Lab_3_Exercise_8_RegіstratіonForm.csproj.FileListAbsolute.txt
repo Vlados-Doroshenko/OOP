@@ -1,0 +1,10 @@
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 3\Lab_3_Exercise_8_RegіstratіonForm\bin\Debug\Lab_3_Exercise_8_RegіstratіonForm.exe.config
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 3\Lab_3_Exercise_8_RegіstratіonForm\bin\Debug\Lab_3_Exercise_8_RegіstratіonForm.exe
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 3\Lab_3_Exercise_8_RegіstratіonForm\bin\Debug\Lab_3_Exercise_8_RegіstratіonForm.pdb
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 3\Lab_3_Exercise_8_RegіstratіonForm\obj\Debug\Lab_3_Exercise_8_RegіstratіonForm.csprojAssemblyReference.cache
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 3\Lab_3_Exercise_8_RegіstratіonForm\obj\Debug\Lab_3_Exercise_8_RegіstratіonForm.Form1.resources
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 3\Lab_3_Exercise_8_RegіstratіonForm\obj\Debug\Lab_3_Exercise_8_RegіstratіonForm.Properties.Resources.resources
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 3\Lab_3_Exercise_8_RegіstratіonForm\obj\Debug\Lab_3_Exercise_8_RegіstratіonForm.csproj.GenerateResource.cache
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 3\Lab_3_Exercise_8_RegіstratіonForm\obj\Debug\Lab_3_Exercise_8_RegіstratіonForm.csproj.CoreCompileInputs.cache
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 3\Lab_3_Exercise_8_RegіstratіonForm\obj\Debug\Lab_3_Exercise_8_RegіstratіonForm.exe
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 3\Lab_3_Exercise_8_RegіstratіonForm\obj\Debug\Lab_3_Exercise_8_RegіstratіonForm.pdb
