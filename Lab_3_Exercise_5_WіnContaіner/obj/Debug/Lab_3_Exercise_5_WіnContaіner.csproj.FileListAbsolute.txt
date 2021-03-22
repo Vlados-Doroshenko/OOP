@@ -1,0 +1,5 @@
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 3\Lab_3_Exercise_5_WіnContaіner\obj\Debug\Lab_3_Exercise_5_WіnContaіner.csprojAssemblyReference.cache
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 3\Lab_3_Exercise_5_WіnContaіner\obj\Debug\Lab_3_Exercise_5_WіnContaіner.Form1.resources
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 3\Lab_3_Exercise_5_WіnContaіner\obj\Debug\Lab_3_Exercise_5_WіnContaіner.Properties.Resources.resources
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 3\Lab_3_Exercise_5_WіnContaіner\obj\Debug\Lab_3_Exercise_5_WіnContaіner.csproj.GenerateResource.cache
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 3\Lab_3_Exercise_5_WіnContaіner\obj\Debug\Lab_3_Exercise_5_WіnContaіner.csproj.CoreCompileInputs.cache
