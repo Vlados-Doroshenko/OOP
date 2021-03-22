@@ -1,0 +1,10 @@
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 3\Lab_3_Exercise_1_TestLіst\bin\Debug\Lab_3_Exercise_1_TestLіst.exe.config
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 3\Lab_3_Exercise_1_TestLіst\bin\Debug\Lab_3_Exercise_1_TestLіst.exe
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 3\Lab_3_Exercise_1_TestLіst\bin\Debug\Lab_3_Exercise_1_TestLіst.pdb
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 3\Lab_3_Exercise_1_TestLіst\obj\Debug\Lab_3_Exercise_1_TestLіst.csprojAssemblyReference.cache
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 3\Lab_3_Exercise_1_TestLіst\obj\Debug\Lab_3_Exercise_1_TestLіst.Form1.resources
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 3\Lab_3_Exercise_1_TestLіst\obj\Debug\Lab_3_Exercise_1_TestLіst.Properties.Resources.resources
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 3\Lab_3_Exercise_1_TestLіst\obj\Debug\Lab_3_Exercise_1_TestLіst.csproj.GenerateResource.cache
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 3\Lab_3_Exercise_1_TestLіst\obj\Debug\Lab_3_Exercise_1_TestLіst.csproj.CoreCompileInputs.cache
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 3\Lab_3_Exercise_1_TestLіst\obj\Debug\Lab_3_Exercise_1_TestLіst.exe
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 3\Lab_3_Exercise_1_TestLіst\obj\Debug\Lab_3_Exercise_1_TestLіst.pdb
