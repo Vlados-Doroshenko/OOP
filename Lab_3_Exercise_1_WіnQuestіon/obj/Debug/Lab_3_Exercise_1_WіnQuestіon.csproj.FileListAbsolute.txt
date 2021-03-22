@@ -1,0 +1,10 @@
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 3\Lab_3_Exercise_1_WіnQuestіon\bin\Debug\Lab_3_Exercise_1_WіnQuestіon.exe.config
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 3\Lab_3_Exercise_1_WіnQuestіon\bin\Debug\Lab_3_Exercise_1_WіnQuestіon.exe
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 3\Lab_3_Exercise_1_WіnQuestіon\bin\Debug\Lab_3_Exercise_1_WіnQuestіon.pdb
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 3\Lab_3_Exercise_1_WіnQuestіon\obj\Debug\Lab_3_Exercise_1_WіnQuestіon.csprojAssemblyReference.cache
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 3\Lab_3_Exercise_1_WіnQuestіon\obj\Debug\Lab_3_Exercise_1_WіnQuestіon.Form1.resources
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 3\Lab_3_Exercise_1_WіnQuestіon\obj\Debug\Lab_3_Exercise_1_WіnQuestіon.Properties.Resources.resources
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 3\Lab_3_Exercise_1_WіnQuestіon\obj\Debug\Lab_3_Exercise_1_WіnQuestіon.csproj.GenerateResource.cache
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 3\Lab_3_Exercise_1_WіnQuestіon\obj\Debug\Lab_3_Exercise_1_WіnQuestіon.csproj.CoreCompileInputs.cache
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 3\Lab_3_Exercise_1_WіnQuestіon\obj\Debug\Lab_3_Exercise_1_WіnQuestіon.exe
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 3\Lab_3_Exercise_1_WіnQuestіon\obj\Debug\Lab_3_Exercise_1_WіnQuestіon.pdb
