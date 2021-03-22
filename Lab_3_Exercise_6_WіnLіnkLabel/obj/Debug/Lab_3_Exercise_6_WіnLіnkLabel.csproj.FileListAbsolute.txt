@@ -1,0 +1,11 @@
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 3\Lab_3_Exercise_6_WіnLіnkLabel\obj\Debug\Lab_3_Exercise_6_WіnLіnkLabel.csprojAssemblyReference.cache
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 3\Lab_3_Exercise_6_WіnLіnkLabel\obj\Debug\Lab_3_Exercise_6_WіnLіnkLabel.Form1.resources
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 3\Lab_3_Exercise_6_WіnLіnkLabel\obj\Debug\Lab_3_Exercise_6_WіnLіnkLabel.Form2.resources
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 3\Lab_3_Exercise_6_WіnLіnkLabel\obj\Debug\Lab_3_Exercise_6_WіnLіnkLabel.Properties.Resources.resources
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 3\Lab_3_Exercise_6_WіnLіnkLabel\obj\Debug\Lab_3_Exercise_6_WіnLіnkLabel.csproj.GenerateResource.cache
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 3\Lab_3_Exercise_6_WіnLіnkLabel\obj\Debug\Lab_3_Exercise_6_WіnLіnkLabel.csproj.CoreCompileInputs.cache
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 3\Lab_3_Exercise_6_WіnLіnkLabel\bin\Debug\Lab_3_Exercise_6_WіnLіnkLabel.exe.config
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 3\Lab_3_Exercise_6_WіnLіnkLabel\bin\Debug\Lab_3_Exercise_6_WіnLіnkLabel.exe
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 3\Lab_3_Exercise_6_WіnLіnkLabel\bin\Debug\Lab_3_Exercise_6_WіnLіnkLabel.pdb
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 3\Lab_3_Exercise_6_WіnLіnkLabel\obj\Debug\Lab_3_Exercise_6_WіnLіnkLabel.exe
+D:\[ЧНУ]\ООП (Юлія Євгенівна Гребенович)\2 семестр\лаб 3\Lab_3_Exercise_6_WіnLіnkLabel\obj\Debug\Lab_3_Exercise_6_WіnLіnkLabel.pdb
