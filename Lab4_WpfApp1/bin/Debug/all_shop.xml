@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<ArrayOfToyShop xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ToyShop>
+    <NumberOfTheStore>0</NumberOfTheStore>
+    <information>
+      <PartyInformation />
+    </information>
+    <serialNumberOfTheStore>1</serialNumberOfTheStore>
+    <toyParty>
+      <toy>
+        <names>Game</names>
+        <manufacture>Chine</manufacture>
+      </toy>
+      <dateTime>0001-01-01T00:00:00</dateTime>
+      <price>0</price>
+      <count>0</count>
+    </toyParty>
+  </ToyShop>
+  <ToyShop>
+    <NumberOfTheStore>1</NumberOfTheStore>
+    <information>
+      <PartyInformation />
+    </information>
+    <serialNumberOfTheStore>2</serialNumberOfTheStore>
+    <toyParty>
+      <toy>
+        <names>Game</names>
+        <manufacture>Chine</manufacture>
+      </toy>
+      <dateTime>0001-01-01T00:00:00</dateTime>
+      <price>0</price>
+      <count>0</count>
+    </toyParty>
+  </ToyShop>
+  <ToyShop>
+    <NumberOfTheStore>1</NumberOfTheStore>
+    <information />
+    <serialNumberOfTheStore>3</serialNumberOfTheStore>
+    <toyParty>
+      <toy>
+        <names>Game</names>
+        <manufacture>Chine</manufacture>
+      </toy>
+      <dateTime>0001-01-01T00:00:00</dateTime>
+      <price>0</price>
+      <count>0</count>
+    </toyParty>
+  </ToyShop>
+</ArrayOfToyShop>
