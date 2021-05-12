@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<ArrayOfToyShop xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ToyShop>
+    <supplies>
+      <PartyToys>
+        <TheToy>
+          <Name>Іграшк</Name>
+          <Manufacturer>Виробник</Manufacturer>
+          <ToyClass>Constructor</ToyClass>
+        </TheToy>
+        <Date>2021-05-12T11:58:21.9992883+03:00</Date>
+        <Price>100</Price>
+        <Count>98</Count>
+      </PartyToys>
+      <PartyToys>
+        <TheToy>
+          <Name>dgsd</Name>
+          <Manufacturer>dsgg</Manufacturer>
+          <ToyClass>SoftToy</ToyClass>
+        </TheToy>
+        <Date>2021-05-12T12:18:22.0079572+03:00</Date>
+        <Price>100</Price>
+        <Count>97</Count>
+      </PartyToys>
+    </supplies>
+  </ToyShop>
+  <ToyShop>
+    <supplies>
+      <PartyToys>
+        <TheToy>
+          <Name>Іграшка</Name>
+          <Manufacturer>Chine</Manufacturer>
+          <ToyClass>SoftToy</ToyClass>
+        </TheToy>
+        <Date>2021-05-12T11:44:56.8230796+03:00</Date>
+        <Price>500</Price>
+        <Count>3</Count>
+      </PartyToys>
+    </supplies>
+  </ToyShop>
+  <ToyShop>
+    <supplies />
+  </ToyShop>
+</ArrayOfToyShop>
