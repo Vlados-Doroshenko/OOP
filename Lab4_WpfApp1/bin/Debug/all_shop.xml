@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<ArrayOfToyShop xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ToyShop>
+    <supplies>
+      <PartyToys>
+        <TheToy>
+          <Name>Gekwjfwef</Name>
+          <Manufacturer>sfdsdf</Manufacturer>
+          <ToyClass>Модель_техніки</ToyClass>
+        </TheToy>
+        <Date>2021-05-26T00:00:00</Date>
+        <Price>100</Price>
+        <Count>99</Count>
+      </PartyToys>
+    </supplies>
+  </ToyShop>
+  <ToyShop>
+    <supplies>
+      <PartyToys>
+        <TheToy>
+          <Name>Медведик</Name>
+          <Manufacturer>Китай</Manufacturer>
+          <ToyClass>Модель_техніки</ToyClass>
+        </TheToy>
+        <Date>2021-05-20T00:00:00</Date>
+        <Price>500</Price>
+        <Count>500</Count>
+      </PartyToys>
+    </supplies>
+  </ToyShop>
+</ArrayOfToyShop>
