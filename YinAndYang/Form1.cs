@@ -161,6 +161,7 @@ namespace YinAndYang
             BlackCell.blackDies = 0;
             label1.Text = "Red Death: " + RedCell.redDies;
             label2.Text = "Black Death: " + BlackCell.blackDies;
+            timer1.Enabled = false;
         }       
     }
 }
